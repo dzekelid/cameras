@@ -4,7 +4,7 @@ url: cameras.streamdata.gallery
 tag: Cameras
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery
+github_user: streamdata-gallery-type
 github_repo: cameras
 github_branch: master
 collections:
